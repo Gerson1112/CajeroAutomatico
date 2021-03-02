@@ -1,0 +1,13 @@
+C:\Users\Gerson Gil\source\repos\CajeroAutomatico\CajeroAutomatico\bin\Debug\netcoreapp3.1\CajeroAutomatico.exe
+C:\Users\Gerson Gil\source\repos\CajeroAutomatico\CajeroAutomatico\bin\Debug\netcoreapp3.1\CajeroAutomatico.deps.json
+C:\Users\Gerson Gil\source\repos\CajeroAutomatico\CajeroAutomatico\bin\Debug\netcoreapp3.1\CajeroAutomatico.runtimeconfig.json
+C:\Users\Gerson Gil\source\repos\CajeroAutomatico\CajeroAutomatico\bin\Debug\netcoreapp3.1\CajeroAutomatico.runtimeconfig.dev.json
+C:\Users\Gerson Gil\source\repos\CajeroAutomatico\CajeroAutomatico\bin\Debug\netcoreapp3.1\CajeroAutomatico.dll
+C:\Users\Gerson Gil\source\repos\CajeroAutomatico\CajeroAutomatico\bin\Debug\netcoreapp3.1\CajeroAutomatico.pdb
+C:\Users\Gerson Gil\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\netcoreapp3.1\CajeroAutomatico.csprojAssemblyReference.cache
+C:\Users\Gerson Gil\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\netcoreapp3.1\CajeroAutomatico.AssemblyInfoInputs.cache
+C:\Users\Gerson Gil\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\netcoreapp3.1\CajeroAutomatico.AssemblyInfo.cs
+C:\Users\Gerson Gil\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\netcoreapp3.1\CajeroAutomatico.csproj.CoreCompileInputs.cache
+C:\Users\Gerson Gil\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\netcoreapp3.1\CajeroAutomatico.dll
+C:\Users\Gerson Gil\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\netcoreapp3.1\CajeroAutomatico.pdb
+C:\Users\Gerson Gil\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\netcoreapp3.1\CajeroAutomatico.genruntimeconfig.cache
